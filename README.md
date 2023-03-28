@@ -1,5 +1,6 @@
 # docker-notes
 Command List:
+```
 docker run nginx
 docker run -p 8080:80 nginx 
 docker ps 
@@ -23,3 +24,4 @@ docker commit container
 docker images 
 docker image ls 
 docker system prune
+```
